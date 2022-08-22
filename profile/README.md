@@ -5,6 +5,7 @@
 ## Documentation
 
 * [Contribution Guide](https://github.com/tess-v2/.github/wiki)
+* [Design Documents](https://github.com/tess-v2/design)
 ----
 
 SLAC National Accelerator Laboratory is operated by Stanford University for the US Department of Energy under Contract DE-AC02-76SF00515.
