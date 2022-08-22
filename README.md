@@ -1,1 +1,1 @@
-This is the public profile for the `tess-v2` github organization.
+This repository contains the profile for the `tess-v2` github organization.
