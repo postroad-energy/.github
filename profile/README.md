@@ -4,7 +4,7 @@
 
 ## Joining the team
 
-Please contact the [project team](https://github.com/orgs/tess-v2/people) to join TESS development team.
+Please contact the [project team](https://github.com/orgs/postroad-energy/people) to join TESS development team.
 
 ----
 
